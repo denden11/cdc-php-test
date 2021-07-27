@@ -1,6 +1,4 @@
 <?php
- use Gigya\PHP;
- use Gigya\PHP\GSRequest;
 
  echo "test";
 //  try {
